@@ -3,4 +3,4 @@
 # Hungman Game
 # Snack:Water:Gun
 # Wikipedia
-# Guesing Number Game
+# Guessing Number Game
